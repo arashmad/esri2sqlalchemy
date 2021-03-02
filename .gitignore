@@ -1,0 +1,10 @@
+.vscode/
+*.xml
+*.log
+*.logs
+*.pyc
+*.txt
+*.pdf
+*.zip
+*.rar
+*)

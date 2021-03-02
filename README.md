@@ -1,4 +1,4 @@
-This tutorial shows how you can use this script to generate neccessary files for installing our web map applications.
+This tutorial shows how you can use this script to generate neccessary files which are used in installing our web map applications.
 
 **Overview**
 
